@@ -1,0 +1,22 @@
+{
+  "name": "@pea3nut/agent-get",
+  "version": "0.0.0",
+  "description": "Cross-host AI Agent Pack installer — install MCP, Skill, Prompt, Command, Sub-agent in one command",
+  "bin": {
+    "agent-get": "bin/agent-get.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "mcp",
+    "cursor",
+    "claude"
+  ],
+  "license": "MIT"
+}
